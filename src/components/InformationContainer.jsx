@@ -6,14 +6,18 @@ const InformationContainer = () => {
         <section id='information'>
             <div id='cards-Container'>
                 <div id="info-card">
-                    <AiFillPhone id='ponhe-icon' />
+                    <a href='https://wa.me/5554984146393'>
+                        <AiFillPhone id='ponhe-icon' />
+                    </a>
                     <div>
                         <h3>Telefone</h3>
                         <p>(54) 98414-6393</p>
                     </div>
                 </div>
                 <div id="info-card">
-                    <AiOutlineMail id='email-icon' />
+                    <a href="mailto:rafanetmello@gmail.com">
+                        <AiOutlineMail id='email-icon' />
+                    </a>
                     <div>
                         <h3>E-mail</h3>
                         <p>rafanetmello@gmail.com</p>
