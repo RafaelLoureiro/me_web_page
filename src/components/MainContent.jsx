@@ -14,4 +14,4 @@ const MainContent = () => {
     )
 };
 
-export default MainContente
+export default MainContent
